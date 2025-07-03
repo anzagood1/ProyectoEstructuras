@@ -1,0 +1,12 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,7,Ana,"{""movil"":""0993344556""}","{""residencia"":""Av. Libertad 321, Loja""}","{""Instagram"":""anainsta""}","{""Cumpleanios"":""1998-12-05""}",Lopez
+P,9,Pedro,"{""casa"":""0987654321""}","{""residencia"":""Calle Sol 456, Manta""}","{""Facebook"":""pedrofb""}","{""Cumpleanios"":""1995-06-30""}",Suarez
+P,5,Luis,"{""casa"":""0981122334""}","{""residencia"":""Calle 10, Cuenca""}","{""Facebook"":""luisfb""}","{""Cumpleanios"":""1992-03-15""}",Martinez
+P,1,Juan,"{""casa"":""0991234567"",""movil"":""0987654321""}","{""oficina"":""Av. Siempre Viva 456, Guayaquil"",""residencia"":""Calle Falsa 123, Guayaquil""}","{""LinkedIn"":""juanperez_profile"",""Twitter"":""@juanperez""}","{""Cumpleanios"":""1990-01-01""}",Perez
+P,3,Maria,"{""movil"":""0998765432""}","{""residencia"":""Av. Principal 789, Quito""}","{""Instagram"":""mariag"",""Facebook"":""mariagomezfb""}","{""Cumpleanios"":""1985-07-20""}",Gomez
+P,11,Steven,"{""Personal"":""41323242""}","{""Oficina"":""Fiec 11a 542""}","{""Instagram"":""Santivan.espol""}","{""Cumplea§os"":""12-12-1995""}",Santillan
+E,10,AgroMarket,"{""ventas"":""042888999""}","{""matriz"":""Av. Agr√≠cola 300, Riobamba""}","{""Instagram"":""agromarketec""}","{""fundacion"":""2012-08-10""}"
+E,8,Constructora Andes,"{""oficina"":""042555666""}","{""sucursal"":""Calle Andes 789, Ambato""}","{""LinkedIn"":""andesconstr""}","{""fundacion"":""1998-04-22""}"
+E,2,Empresa XYZ,"{""central"":""042345678""}","{""matriz"":""Av. Empresarial 100, Quito""}","{""Facebook"":""empresaxyzfb""}","{""fundacion"":""2000-05-15""}"
+E,4,Soluciones ABC,"{""oficina"":""043212345""}","{""sucursal"":""Calle Comercio 456, Guayaquil""}","{""LinkedIn"":""solabc""}","{""fundacion"":""2010-09-30""}"
+E,6,TechNova,"{""soporte"":""042222333""}","{""matriz"":""Av. Digital 200, Quito""}","{""Twitter"":""@technova""}","{""fundacion"":""2015-11-01""}"

@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,1,Samantha,"{""movil"":""0994433221""}","{""residencia"":""Av. del Sol 321, Loja""}","{""Instagram"":""samanthainsta""}","{""Cumpleanios"":""1996-01-25""}",Ibarra
+P,2,Felipe,"{""casa"":""0981223344""}","{""residencia"":""Calle Norte 456, Quito""}","{""Facebook"":""felipefb""}","{""Cumpleanios"":""1987-07-19""}",Castillo
+E,3,AgroCenter,"{""ventas"":""042888444""}","{""matriz"":""Av. Agricola 123, Cuenca""}","{""Instagram"":""agrocenter""}","{""fundacion"":""2012-09-14""}",
+E,4,InnovarTec,"{""oficina"":""042555333""}","{""sucursal"":""Calle Tecnología 321, Guayaquil""}","{""LinkedIn"":""innovartec""}","{""fundacion"":""2017-06-06""}",
+P,5,Adriana,"{""movil"":""0998877665""}","{""residencia"":""Calle Sur 99, Quito""}","{""Instagram"":""adrianag""}","{""Cumpleanios"":""1994-10-30""}",Zambrano
+P,6,Jose,"{""movil"":""0992233445""}","{""residencia"":""Av. Libertad 45, Ambato""}","{""Facebook"":""josefb""}","{""Cumpleanios"":""1986-03-13""}",Santos
+P,7,Patricia,"{""casa"":""0987654321""}","{""residencia"":""Calle Paz 321, Quito""}","{""Instagram"":""patriciainsta""}","{""Cumpleanios"":""1992-05-05""}",Flores
+E,8,Comerciar,"{""ventas"":""042333222""}","{""matriz"":""Av. Comercial 88, Manta""}","{""Instagram"":""comerciarecu""}","{""fundacion"":""2011-12-01""}",
+E,9,TecniPlus,"{""oficina"":""042888555""}","{""sucursal"":""Calle Progreso 456, Guayaquil""}","{""LinkedIn"":""tecniplus""}","{""fundacion"":""2016-02-20""}",
+P,10,Esteban,"{""movil"":""0993344556""}","{""residencia"":""Av. Central 321, Quito""}","{""Instagram"":""estebanin""}","{""Cumpleanios"":""1991-09-27""}",Mora

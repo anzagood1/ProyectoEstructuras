@@ -1,0 +1,7 @@
+savihuer,qwer1234,demo\src\main\resources\contactosSavihuer.csv
+anzagood,tyui5678,demo\src\main\resources\contactosAnzagood.csv
+rirandiz,asdf1357,demo\src\main\resources\contactosRirandiz.csv
+jescobal,ghjk2468,demo\src\main\resources\contactosJescobal.csv
+edcasala,zsexdrcf,demo\src\main\resources\contactosEdcasala.csv
+lisllamu,tvgybhun,demo\src\main\resources\contactosLisllamu.csv
+jdelcamp,adgjzcbm,demo\src\main\resources\contactosJdelcamp.csv

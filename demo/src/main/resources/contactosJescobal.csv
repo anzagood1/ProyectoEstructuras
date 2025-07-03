@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,1,Camila,"{""movil"":""0991122334""}","{""residencia"":""Calle Olivos 111, Quito""}","{""Instagram"":""camilainsta""}","{""Cumpleanios"":""1997-03-03""}",Alvarez
+P,2,Julian,"{""casa"":""0987766554""}","{""residencia"":""Av. Libertad 345, Cuenca""}","{""Facebook"":""julianfb""}","{""Cumpleanios"":""1989-12-14""}",Vega
+E,3,ElectroFast,"{""ventas"":""042456789""}","{""matriz"":""Av. Comercio 567, Guayaquil""}","{""Instagram"":""electrofast""}","{""fundacion"":""2014-07-01""}",
+E,4,ServiConstrucciones,"{""oficina"":""042333444""}","{""sucursal"":""Calle Obra 999, Ambato""}","{""LinkedIn"":""serviconstru""}","{""fundacion"":""2010-10-10""}",
+P,5,Daniela,"{""movil"":""0994455667""}","{""residencia"":""Calle Sol 123, Loja""}","{""Instagram"":""danielainsta""}","{""Cumpleanios"":""1995-04-21""}",Quispe
+P,6,Mateo,"{""movil"":""0999988776""}","{""residencia"":""Av. Amazonas 321, Quito""}","{""Twitter"":""@mateotw""}","{""Cumpleanios"":""1993-09-09""}",Rojas
+P,7,Luz,"{""casa"":""0986543211""}","{""residencia"":""Calle Rio 89, Cuenca""}","{""Facebook"":""luzfb""}","{""Cumpleanios"":""1988-06-15""}",Montoya
+E,8,BioAgro,"{""ventas"":""042111333""}","{""matriz"":""Av. Verde 400, Riobamba""}","{""Instagram"":""bioagroec""}","{""fundacion"":""2013-11-25""}",
+E,9,SoftDev,"{""oficina"":""042777888""}","{""sucursal"":""Av. Tecnológica 100, Guayaquil""}","{""LinkedIn"":""softdevec""}","{""fundacion"":""2018-04-18""}",
+P,10,Raul,"{""movil"":""0995566778""}","{""residencia"":""Calle Luna 22, Quito""}","{""Instagram"":""raulin""}","{""Cumpleanios"":""1990-02-02""}",Salcedo

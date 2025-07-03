@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,1,Alejandro,"{""movil"":""0991122445""}","{""residencia"":""Av. Paz 432, Quito""}","{""Instagram"":""alejandroc""}","{""Cumpleanios"":""1990-07-07""}",Castro
+P,2,Karina,"{""casa"":""0987654322""}","{""residencia"":""Calle Lirio 98, Cuenca""}","{""Facebook"":""karinafb""}","{""Cumpleanios"":""1992-11-21""}",Martinez
+E,3,ProAgro,"{""ventas"":""042444555""}","{""matriz"":""Av. Verde 150, Loja""}","{""Instagram"":""proagroec""}","{""fundacion"":""2013-02-15""}",
+E,4,SoftLine,"{""oficina"":""042999000""}","{""sucursal"":""Calle Digital 321, Guayaquil""}","{""LinkedIn"":""softlineec""}","{""fundacion"":""2017-09-12""}",
+P,5,Diana,"{""movil"":""0993344221""}","{""residencia"":""Av. América 100, Quito""}","{""Instagram"":""dianainsta""}","{""Cumpleanios"":""1994-05-29""}",Guzman
+P,6,Laura,"{""movil"":""0999988776""}","{""residencia"":""Calle Aurora 78, Cuenca""}","{""Instagram"":""laurainsta""}","{""Cumpleanios"":""1995-08-15""}",Arcos
+P,7,Victor,"{""casa"":""0984433221""}","{""residencia"":""Av. Paz 99, Quito""}","{""Facebook"":""victorfb""}","{""Cumpleanios"":""1989-11-11""}",Paredes
+E,8,Agricampo,"{""ventas"":""042555111""}","{""matriz"":""Av. Agrícola 222, Loja""}","{""Instagram"":""agricampo""}","{""fundacion"":""2015-03-15""}",
+E,9,CodeFactory,"{""oficina"":""042111999""}","{""sucursal"":""Av. Digital 456, Guayaquil""}","{""LinkedIn"":""codefactory""}","{""fundacion"":""2020-01-20""}",
+P,10,Maria,"{""movil"":""0995566778""}","{""residencia"":""Calle Flor 12, Quito""}","{""Instagram"":""andreag""}","{""Cumpleanios"":""1993-12-09""}",Gonzalez

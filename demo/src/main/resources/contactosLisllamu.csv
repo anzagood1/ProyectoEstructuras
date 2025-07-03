@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,1,Oscar,"{""movil"":""0998877665""}","{""residencia"":""Calle Central 55, Ambato""}","{""Facebook"":""oscarfb""}","{""Cumpleanios"":""1988-08-18""}",Ruiz
+P,2,Martha,"{""casa"":""0981122334""}","{""residencia"":""Av. Libertad 12, Quito""}","{""Instagram"":""marthainsta""}","{""Cumpleanios"":""1993-04-06""}",Lopez
+E,3,ConstruFer,"{""ventas"":""042555888""}","{""matriz"":""Av. Industrial 300, Cuenca""}","{""LinkedIn"":""construfer""}","{""fundacion"":""2012-05-01""}",
+E,4,EcoMarket,"{""oficina"":""042333777""}","{""sucursal"":""Av. Verde 200, Riobamba""}","{""Instagram"":""ecomarketec""}","{""fundacion"":""2015-10-15""}",
+P,5,Renata,"{""movil"":""0996655443""}","{""residencia"":""Calle Sol 77, Loja""}","{""Instagram"":""renatainsta""}","{""Cumpleanios"":""1997-12-03""}",Cruz
+P,6,Gabriel,"{""movil"":""0995566778""}","{""residencia"":""Av. Amazonas 345, Quito""}","{""Twitter"":""@gabrieltw""}","{""Cumpleanios"":""1991-01-22""}",Ortega
+P,7,Liliana,"{""casa"":""0987654310""}","{""residencia"":""Calle Nube 45, Cuenca""}","{""Facebook"":""lilianafb""}","{""Cumpleanios"":""1990-06-11""}",Vega
+E,8,AquaClean,"{""ventas"":""042444111""}","{""matriz"":""Av. Agua 123, Guayaquil""}","{""Instagram"":""aquaclean""}","{""fundacion"":""2014-04-10""}",
+E,9,SoftExpress,"{""oficina"":""042888333""}","{""sucursal"":""Calle Software 456, Quito""}","{""LinkedIn"":""softexpress""}","{""fundacion"":""2018-08-22""}",
+P,10,Valentin,"{""movil"":""0994433221""}","{""residencia"":""Calle Paz 88, Loja""}","{""Instagram"":""valentinv""}","{""Cumpleanios"":""1989-03-09""}",Vargas

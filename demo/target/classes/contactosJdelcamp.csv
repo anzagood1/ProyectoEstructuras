@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,1,Monica,"{""movil"":""0999988776""}","{""residencia"":""Av. Flores 123, Ambato""}","{""Instagram"":""monicainsta""}","{""Cumpleanios"":""1995-05-17""}",Perez
+P,2,Emilio,"{""casa"":""0984433211""}","{""residencia"":""Calle Mar 67, Manta""}","{""Facebook"":""emiliofb""}","{""Cumpleanios"":""1987-07-13""}",Garcia
+E,3,VerdeClaro,"{""ventas"":""042333888""}","{""matriz"":""Av. Agricultura 200, Riobamba""}","{""Instagram"":""verdeclaroec""}","{""fundacion"":""2013-03-20""}",
+E,4,TecnoApps,"{""oficina"":""042555444""}","{""sucursal"":""Av. Digital 234, Guayaquil""}","{""LinkedIn"":""tecnoapps""}","{""fundacion"":""2019-09-19""}",
+P,5,Beatriz,"{""movil"":""0991122334""}","{""residencia"":""Calle Luz 123, Quito""}","{""Instagram"":""beatrizb""}","{""Cumpleanios"":""1994-02-14""}",Morales
+P,6,Francisco,"{""movil"":""0998877665""}","{""residencia"":""Av. del Parque 88, Cuenca""}","{""Instagram"":""franciscov""}","{""Cumpleanios"":""1993-08-30""}",Villacis
+P,7,Luisa,"{""casa"":""0983322110""}","{""residencia"":""Calle Lago 123, Quito""}","{""Facebook"":""luisafb""}","{""Cumpleanios"":""1989-09-19""}",Palacios
+E,8,FerroConstruye,"{""ventas"":""042555000""}","{""matriz"":""Av. Industria 300, Loja""}","{""LinkedIn"":""ferroconstruye""}","{""fundacion"":""2016-06-10""}",
+E,9,SmartSolutions,"{""oficina"":""042111444""}","{""sucursal"":""Av. Inteligencia 321, Guayaquil""}","{""Instagram"":""smartsolutionsec""}","{""fundacion"":""2020-02-22""}",
+P,10,Cristina,"{""movil"":""0997766554""}","{""residencia"":""Calle Sol 101, Quito""}","{""Instagram"":""cristinac""}","{""Cumpleanios"":""1992-11-04""}",Estrada

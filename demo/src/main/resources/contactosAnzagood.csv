@@ -1,0 +1,11 @@
+tipo,id,nombre,telefonos,direcciones,redes_sociales,fechas_de_interes,apellido
+P,6,Sofia,"{""movil"":""0987651234""}","{""residencia"":""Calle Nube 23, Quito""}","{""Instagram"":""sofiainsta""}","{""Cumpleanios"":""1997-08-20""}",Loja
+P,5,Valeria,"{""movil"":""0998765432""}","{""residencia"":""Calle Sol 45, Cuenca""}","{""Instagram"":""valeriah""}","{""Cumpleanios"":""1996-07-14""}",Hidalgo
+P,1,Elena,"{""movil"":""0991237890""}","{""residencia"":""Calle Luna 123, Quito""}","{""Instagram"":""elenaq""}","{""Cumpleanios"":""1994-04-12""}",Quintero
+P,10,Natalia,"{""movil"":""0992345678""}","{""residencia"":""Calle Mar 55, Loja""}","{""Instagram"":""nataliainsta""}","{""Cumpleanios"":""1993-03-10""}",Salinas
+P,7,Fernando,"{""casa"":""0998765123""}","{""residencia"":""Av. del Parque 67, Manta""}","{""Facebook"":""fernandofb""}","{""Cumpleanios"":""1990-02-17""}",Reyes
+P,2,Carlos,"{""casa"":""0983216549""}","{""residencia"":""Av. América 321, Quito""}","{""Facebook"":""carlosfb""}","{""Cumpleanios"":""1988-11-23""}",Mendoza
+E,3,MarketPro,"{""ventas"":""042555111""}","{""matriz"":""Av. Comercio 100, Quito""}","{""Instagram"":""marketproec""}","{""fundacion"":""2010-05-12""}"
+E,4,InnovaTech,"{""soporte"":""042666777""}","{""matriz"":""Av. Innovación 123, Quito""}","{""LinkedIn"":""innovatech""}","{""fundacion"":""2015-09-18""}"
+E,8,AgroVida,"{""ventas"":""042123456""}","{""matriz"":""Av. Agrícola 200, Riobamba""}","{""Instagram"":""agrovidaec""}","{""fundacion"":""2013-06-01""}"
+E,9,DigitalPlus,"{""oficina"":""042789654""}","{""matriz"":""Av. Tecnología 345, Guayaquil""}","{""Twitter"":""@digitalplus""}","{""fundacion"":""2018-11-22""}"
